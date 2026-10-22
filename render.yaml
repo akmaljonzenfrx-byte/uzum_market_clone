@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: uzum_market_clone
+    runtime: static
+    staticPublishPath: .
